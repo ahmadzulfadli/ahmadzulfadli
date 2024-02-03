@@ -45,7 +45,7 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,jquery,nextjs,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=js,jquery,bootstrap" />
   </a>
 </p>
 

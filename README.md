@@ -56,6 +56,13 @@
   </a>
 </p>
 
+- Internet of Things
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,arduino" />
+  </a>
+</p>
+
 - Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">

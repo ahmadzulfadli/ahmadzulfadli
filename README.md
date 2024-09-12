@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **Spring-boot**
 
 - 💬 Ask me about **Java, Python and C++/C**
 

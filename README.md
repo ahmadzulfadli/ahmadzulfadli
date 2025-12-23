@@ -76,21 +76,3 @@
     <img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,postman,linux" />
   </a>
 </p>
-
-<br/>
-
-<h3 align="left">GitHub Stats:</h3>
-<div align="center">
- 
-![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadzulfadli\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ahmadzulfadli&theme=midnight-purple)](https://git.io/streak-stats)
-
-</div>
-
-<br><br>
-
-<h3 align="left">Activity:</h3>
-
-![ahmadzulfadli's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmadzulfadli&custom_title=fadli's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br><br>
